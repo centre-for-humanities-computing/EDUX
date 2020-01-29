@@ -74,6 +74,8 @@ Data-Driven Digital Transformation of Literary Analysis
 │   │   ├── Deep learning
 │   │   │   ├── Natural Language Processing
 │   │   │   │   ├── Language normalization
+│   │   │   │   ├── Language models
+│   │   │   │   │   ├── Text generation
 ├── Visualization
 │   ├── Information visualization
 │   │   ├── Dimension reduction
